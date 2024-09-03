@@ -199,6 +199,7 @@ a {
 .footer {
 	grid-area: footer;
 	background: linear-gradient(transparent,var(--negro));
+	background-color: var(--negro);
 	height: 200px;
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
